@@ -1,28 +1,16 @@
-Flutter MVVM Core - Non-Commercial License
+MIT License
 
-Copyright (c) 2025 Heiko Schilde
+Copyright (c) 2025 AbaHatschi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
-in the Software for NON-COMMERCIAL purposes, including without limitation the 
-rights to use, copy, modify, merge, publish, distribute, sublicense, and/or 
-distribute copies of the Software, subject to the following conditions:
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-1. The above copyright notice and this permission notice shall be included in 
-   all copies or substantial portions of the Software.
-
-2. The Software may NOT be used for commercial purposes without explicit 
-   written permission from the copyright holder. Commercial purposes include, 
-   but are not limited to:
-   - Selling the Software or derivatives
-   - Using the Software in a commercial product or service
-   - Offering paid services that primarily depend on this Software
-
-3. Contributions and improvements to the Software are welcomed and encouraged.
-   By contributing, you agree that your contributions will be licensed under 
-   the same terms.
-
-4. For commercial licensing inquiries, please contact: sprudel71@gmx.de
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,

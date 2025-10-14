@@ -155,13 +155,13 @@ Contributions are welcome! Please:
 
 ## License
 
-This project is licensed under a Non-Commercial License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 **Summary:**
-- ✅ Free for personal, educational, and open-source projects
+- ✅ Free for personal, educational, commercial, and open-source projects
 - ✅ Modifications and contributions welcome
-- ❌ Commercial use requires explicit permission
-- 📧 Contact sprudel71@gmx.de for commercial licensing inquiries
+- ✅ Commercial use permitted without restrictions
+- ✅ Can be used, copied, modified, and distributed freely
 
 ## Report Issues
 
