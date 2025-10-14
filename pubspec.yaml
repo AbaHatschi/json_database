@@ -1,0 +1,25 @@
+name: json_database
+description: "A lightweight JSON-based database for Flutter with MVVM support, repository pattern and CRUD operations."
+version: 1.0.0
+homepage: https://github.com/AbaHatschi/json_database
+repository: https://github.com/AbaHatschi/json_database
+issue_tracker: https://github.com/AbaHatschi/json_database/issues
+documentation: https://github.com/AbaHatschi/json_database#readme
+publish_to: none # Remove this line if you wish to publish to pub.dev
+
+environment:
+  sdk: ^3.9.2
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.1.5
+
+dev_dependencies:
+  flutter_lints: ^6.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
